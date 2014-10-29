@@ -1,4 +1,4 @@
 Bumblebee
 =========
 
-A disassembler
+A disassembler tool
